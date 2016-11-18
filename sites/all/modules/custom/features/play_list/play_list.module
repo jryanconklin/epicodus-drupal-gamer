@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Play List feature.
+ */
+
+include_once 'play_list.features.inc';
